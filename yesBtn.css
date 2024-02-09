@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Gaegu&family=Poppins:wght@400;700&display=swap');
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #F69A97;
+}
+
+.headerText {
+    font-family: "Gaegu", sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.gifContainer {
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
